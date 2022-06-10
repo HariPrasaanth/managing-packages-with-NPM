@@ -2,6 +2,7 @@
 	"author": "Hari Prasaanth",
 	"description": "A project that does something awesome",
 	"name": "fcc-learn-npm-package-json",
+	"keywords": ["Hari", "freecodecamp", "course"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
