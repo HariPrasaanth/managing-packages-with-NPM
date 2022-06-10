@@ -3,6 +3,7 @@
 	"description": "A project that does something awesome",
 	"name": "fcc-learn-npm-package-json",
 	"keywords": ["Hari", "freecodecamp", "course"],
+	"version": "1.2.0",
 	"license":"BSD",
 	"dependencies": {
 		"express": "^4.14.0"
